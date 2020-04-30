@@ -1,0 +1,7 @@
+varun 500
+ayush 500
+ishan 500
+navaneeth 200
+lokesh 53
+saksham 1000
+kartikeya 2000
